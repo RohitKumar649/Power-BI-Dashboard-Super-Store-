@@ -19,4 +19,7 @@ This Power BI project provides a detailed sales analysis, offering insights into
 
 - 🎨 **Visually Engaging**: The dashboard combines **diverse visualizations**, including **bar charts, line charts, donut charts, and tree maps**, creating an **interactive and insightful analysis**.  
 - 📊 **Business-Driven Insights**: Each visualization is designed to answer **critical business questions**, such as identifying **high-profit categories and subcategories** and understanding **sales and profit trends by year and month**.  
-- 🚀 **Strategic Value**: The insights from this dashboard support **data-driven decision-making** in **sales optimization, regional targeting, and inventory planning**, helping businesses enhance their overall strategy.  
+- 🚀 **Strategic Value**: The insights from this dashboard support **data-driven decision-making** in **sales optimization, regional targeting, and inventory planning**, helping businesses enhance their overall strategy.
+
+# Reportory Structure
+- Data: https://github.com/RohitKumar649/Power-BI-Dashboard-Super-Store-/blob/main/Data.xlsx
