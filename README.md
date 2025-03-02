@@ -23,3 +23,4 @@ This Power BI project provides a detailed sales analysis, offering insights into
 
 # Reportory Structure
 - Data: https://github.com/RohitKumar649/Power-BI-Dashboard-Super-Store-/blob/main/Data.xlsx
+- Dashoard: https://github.com/RohitKumar649/Power-BI-Dashboard-Super-Store-/blob/main/superstore%20project.pbix
