@@ -28,6 +28,6 @@ This Power BI project provides a detailed sales analysis, offering insights into
 - Data: https://github.com/RohitKumar649/Power-BI-Dashboard-Super-Store-/blob/main/Data.xlsx
 - Dashoard: https://github.com/RohitKumar649/Power-BI-Dashboard-Super-Store-/blob/main/superstore%20project.pbix
 - Image: ![Image One](https://github.com/user-attachments/assets/bb347707-e3db-4138-8d70-6bf3e0e0f039)
-          ![Image Two](https://github.com/user-attachments/assets/74c990e6-cc1b-4d54-94c3-b73c0b1b2e34)
+         ![Image Two](https://github.com/user-attachments/assets/74c990e6-cc1b-4d54-94c3-b73c0b1b2e34)
 
 
