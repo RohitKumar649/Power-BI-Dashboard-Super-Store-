@@ -10,7 +10,10 @@ This Power BI project provides a detailed sales analysis, offering insights into
 - 🚚 **Ship Mode & Sales**: Analyzes sales across different shipping modes, revealing **Standard Class** as the most utilized and highest revenue-generating option.  
 - 🏆 **Top-Performing Segment**: A **donut chart** showcases **Consumer** as the leading customer segment.  
 - 📅 **Profit Trends (Month & Year)**: A visualization tracks **profit growth from 2016 to 2019**, highlighting **November** as a key month.  
-- 📆 **Sales Trends (Month & Year)**: Analyzes **sales patterns from 2016 to 2019**, with **December** showing peak sales activity.  
+- 📆 **Sales Trends (Month & Year)**: Analyzes **sales patterns from 2016 to 2019**, with **December** showing peak sales activity.
+- - 🗺 **Sales by Location**: A **map chart** highlights **California** as the region with the highest sales.  
+- 📊 **Sales by Order Date**: A **line chart** presents sales trends over time, with a **zoom slider** for enhanced X and Y-axis navigation.  
+- 📑 **Detailed Sales Table**: A structured table displays **sales, profit, quantity, and discount** based on **sub-categories** for a more granular analysis.  
 - 🌍 **Regional Slicers**: Interactive **slicers enable filtering sales data by region** for deeper analysis.  
 
 
